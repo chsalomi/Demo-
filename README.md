@@ -1,2 +1,3 @@
-# Demo-
-This is my first git repository 
+# Demo
+This is my first git repository
+Author - Chinnaramugari salomi
